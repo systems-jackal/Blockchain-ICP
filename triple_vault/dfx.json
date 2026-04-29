@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "compass_a": {
+      "type": "rust",
+      "package": "compass_a",
+      "candid": "src/compass_a/compass_a.did"
+    },
+    "compass_b": {
+      "type": "rust",
+      "package": "compass_b",
+      "candid": "src/compass_b/compass_b.did"
+    },
+    "compass_c": {
+      "type": "rust",
+      "package": "compass_c",
+      "candid": "src/compass_c/compass_c.did"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# Rust build artifacts
+/target/
+**/target/
+**/Cargo.lock
+
+# ICP / dfx artifacts
+.dfx/
+.dfx-local/
+**/.dfx/
+**/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated Candid files (optional - commit or ignore)
+# **/*.did
+
+# Temporary files
+*.tmp
+*.log

@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "src/compass_a",
+    "src/compass_b",
+    "src/compass_c"
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
