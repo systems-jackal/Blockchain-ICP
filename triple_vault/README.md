@@ -1,3 +1,4 @@
+### TRICOMPASS IAM
 The problem is not the *intent* of KYC — verifying identity is legitimate and necessary. The problem is the *architecture*: every verification creates a new copy of sensitive identity data, stored in a silo controlled by a single institution, protected by credentials that can be phished, leaked, or brute-forced.
 
 When that institution is breached, users have no recourse. They did not choose to trust that institution with their data forever. They simply had no alternative.
