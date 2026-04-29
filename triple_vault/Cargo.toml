@@ -3,9 +3,6 @@ resolver = "2"
 members = [
     "src/compass_a",
     "src/compass_b",
-    "src/compass_c"
+    "src/compass_c",
+    "src/captain"
 ]
-
-[workspace.package]
-version = "0.1.0"
-edition = "2021"

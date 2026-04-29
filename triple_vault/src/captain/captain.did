@@ -1,0 +1,5 @@
+service : {
+  health : () -> (text) query;
+  read : (text) -> (text) query;
+  write : (text, text) -> (text);
+}
