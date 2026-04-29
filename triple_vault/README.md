@@ -91,7 +91,7 @@ All mutations are gated by on-chain identity verification via `ic_cdk::caller()`
 | Rate limiting      | Per-caller frequency tracking             | Abuse, spam, and replay flooding       |
 | Public reads       | Open `get()` calls                        | Transparency and auditability          |
 
-#### Reference Implementation:(Rust)
+#### Reference Implementation:-(Rust)
 
 **Owner-only mutation:-**
 ```rust
